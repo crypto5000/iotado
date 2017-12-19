@@ -1,4 +1,4 @@
-# iotado
+# IOTA Do
 IOTA Do is a next generation to-do list where task data is stored in the Tangle
 and task completion is signaled by an IOTA payment.
 
